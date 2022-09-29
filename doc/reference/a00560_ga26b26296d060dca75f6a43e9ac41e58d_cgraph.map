@@ -1,0 +1,4 @@
+<map id="tds_quote_and_put" name="tds_quote_and_put">
+<area shape="rect" id="node1" title="Send a string to server while quoting it." alt="" coords="5,5,137,32"/>
+<area shape="rect" id="node2" href="$a00561.html#ga1fcaf8d488cc1390f106ce3ad0bf37b4" title="Output a string to wire automatic translate string to unicode if needed." alt="" coords="185,5,289,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="_cs_dynamic" name="_cs_dynamic">
+<area shape="rect" id="node1" title=" " alt="" coords="301,96,400,123"/>
+<area shape="rect" id="node2" href="$a01196.html" title="Holds information for a dynamic (also called prepared) query." alt="" coords="166,5,262,32"/>
+<area shape="rect" id="node4" href="$a01224.html" title="Information for a server connection." alt="" coords="76,96,163,123"/>
+<area shape="rect" id="node3" href="$a01172.html" title="Hold information for any results." alt="" coords="120,231,226,257"/>
+<area shape="rect" id="node5" href="$a01164.html" title="Metadata about columns in regular and compute rows." alt="" coords="478,96,567,123"/>
+<area shape="rect" id="node6" href="$a00884.html" title=" " alt="" coords="340,5,427,32"/>
+</map>

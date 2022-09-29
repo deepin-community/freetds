@@ -1,0 +1,4 @@
+<map id="dbspid" name="dbspid">
+<area shape="rect" id="node1" title="Get server process ID for a DBPROCESS." alt="" coords="5,5,65,32"/>
+<area shape="rect" id="node2" href="$a00437.html#ab45c291105027e69836002e1dd586141" title="Write a message to the debug log." alt="" coords="113,5,209,32"/>
+</map>

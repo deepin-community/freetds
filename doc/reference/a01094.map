@@ -1,0 +1,4 @@
+<map id="tds_staticout_stream" name="tds_staticout_stream">
+<area shape="rect" id="node1" title="output stream to write data to a static buffer." alt="" coords="5,95,149,121"/>
+<area shape="rect" id="node2" href="$a01080.html" title="define a stream of data used for output" alt="" coords="12,5,143,32"/>
+</map>

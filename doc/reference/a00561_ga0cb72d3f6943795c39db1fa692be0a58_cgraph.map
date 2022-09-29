@@ -1,0 +1,4 @@
+<map id="tds_get_byte" name="tds_get_byte">
+<area shape="rect" id="node1" title="Return a single byte from the input buffer." alt="" coords="5,5,103,32"/>
+<area shape="rect" id="node2" href="$a00561.html#ga410619783bdf2bb60b0f27a5578e0e07" title="Read in one &#39;packet&#39; from the server." alt="" coords="151,5,269,32"/>
+</map>

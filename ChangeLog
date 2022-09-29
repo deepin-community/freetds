@@ -1,0 +1,24 @@
+Author: Frediano Ziglio <freddy77@gmail.com>
+Date:   Mon Jul 6 16:54:51 2020 +0100
+
+    tds: Optimization for char encoding
+
+    Detect same charset and avoid using larger buffer to store
+    result of conversion.
+    This also affects the column length on some libraries which do
+    not differ between DDL and byte length.
+
+Author: Frediano Ziglio <freddy77@gmail.com>
+Date:   Tue Jul 7 07:54:37 2020 +0100
+
+    dblib: Allows to pass 0 as type for bcp_bind
+
+    0 value as type means no conversion performed.
+    This is correctly handled but it was rejected when more checks
+    were introduced.
+
+Author: Frediano Ziglio <freddy77@gmail.com>
+Date:   Tue Jul 7 07:31:38 2020 +0100
+
+    dblib: Add missing parameters to DBSETLSERVERPRINCIPAL macro
+

@@ -1,0 +1,5 @@
+<map id="tdsdbopen" name="tdsdbopen">
+<area shape="rect" id="node1" title="Form a connection with the server." alt="" coords="5,31,88,57"/>
+<area shape="rect" id="node2" href="$a00437.html#ab45c291105027e69836002e1dd586141" title="Write a message to the debug log." alt="" coords="141,5,237,32"/>
+<area shape="rect" id="node3" href="$a00437.html#a24471508ddfde7cc0f8577801e70c42f" title="Create and truncate a human readable dump file for the TDS traffic." alt="" coords="136,56,243,83"/>
+</map>

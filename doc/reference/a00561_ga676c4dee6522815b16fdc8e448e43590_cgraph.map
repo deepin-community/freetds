@@ -1,0 +1,7 @@
+<map id="read_and_convert" name="read_and_convert">
+<area shape="rect" id="node1" title="For UTF&#45;8 and similar, tds_iconv() may encounter a partial sequence when the chunk boundary is not al..." alt="" coords="5,56,131,83"/>
+<area shape="rect" id="node2" href="$a01408.html#a9d8eb43a81ff58ab423dce0ce95b9564" title="Reads and writes from a stream converting characters." alt="" coords="194,5,331,32"/>
+<area shape="rect" id="node3" href="$a01408.html#abc3a77c8aa28842e7f28583cbabc1415" title="Initialize a data input stream." alt="" coords="186,56,339,83"/>
+<area shape="rect" id="node5" href="$a01408.html#a9fe0d3799d2e3bde49b614c9d0c3785d" title="Initialize an output stream for write into a static allocated buffer." alt="" coords="179,107,347,133"/>
+<area shape="rect" id="node4" href="$a01408.html#a04b537d889f7d4c9b9701eb81baf7efd" title="Reads data from network for input stream." alt="" coords="395,56,556,83"/>
+</map>

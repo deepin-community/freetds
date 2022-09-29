@@ -1,0 +1,4 @@
+<map id="Memory allocation" name="Memory allocation">
+<area shape="rect" id="node1" title="Allocate or free resources. Allocation can fail only on out of memory. In such case they return NULL ..." alt="" coords="144,5,272,31"/>
+<area shape="rect" id="node2" href="$a00564.html" title="Callable functions in libtds." alt="" coords="5,5,96,31"/>
+</map>

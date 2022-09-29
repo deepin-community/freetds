@@ -1,0 +1,4 @@
+<map id="tds_dynamic_stream_init" name="tds_dynamic_stream_init">
+<area shape="rect" id="node1" title="Initialize a dynamic output stream." alt="" coords="5,13,172,39"/>
+<area shape="rect" id="node2" href="$a01408.html#abaf688c85ea04a2392103d519a55d04e" title="Writes data to a dynamic allocated buffer." alt="" coords="220,5,363,47"/>
+</map>

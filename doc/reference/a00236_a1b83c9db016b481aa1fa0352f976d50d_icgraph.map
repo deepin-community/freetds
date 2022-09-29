@@ -1,0 +1,4 @@
+<map id="tds_file_stream_read" name="tds_file_stream_read">
+<area shape="rect" id="node1" title="Reads a chunk of data from file stream checking for terminator." alt="" coords="157,5,300,32"/>
+<area shape="rect" id="node2" href="$a00437.html#a8184311543c685f2ee0bcccfb725ca02" title="Read a data file, passing the data through iconv()." alt="" coords="5,5,109,32"/>
+</map>

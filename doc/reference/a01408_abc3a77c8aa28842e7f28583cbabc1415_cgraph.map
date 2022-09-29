@@ -1,0 +1,4 @@
+<map id="tds_datain_stream_init" name="tds_datain_stream_init">
+<area shape="rect" id="node1" title="Initialize a data input stream." alt="" coords="5,5,159,32"/>
+<area shape="rect" id="node2" href="$a01408.html#a04b537d889f7d4c9b9701eb81baf7efd" title="Reads data from network for input stream." alt="" coords="207,5,368,32"/>
+</map>

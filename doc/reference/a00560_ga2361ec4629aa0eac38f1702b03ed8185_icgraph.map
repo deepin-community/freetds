@@ -1,0 +1,5 @@
+<map id="tds_skip_quoted_ucs2le" name="tds_skip_quoted_ucs2le">
+<area shape="rect" id="node1" title="Return pointer to end of a quoted string." alt="" coords="405,13,568,39"/>
+<area shape="rect" id="node2" href="$a00560.html#gaa823973b74efdf1ff00f340496bff614" title="Found the next placeholder (? or @param) in a string." alt="" coords="212,5,357,47"/>
+<area shape="rect" id="node3" href="$a00560.html#ga0cd19215e9169ea299a6c9cbf5b2fb60" title="Count the number of placeholders (&#39;?&#39;) in a query." alt="" coords="5,5,164,47"/>
+</map>

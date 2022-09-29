@@ -1,0 +1,4 @@
+<map id="tds_staticin_stream" name="tds_staticin_stream">
+<area shape="rect" id="node1" title="input stream to read data from a static buffer" alt="" coords="5,95,141,121"/>
+<area shape="rect" id="node2" href="$a01076.html" title="define a stream of data used for input" alt="" coords="12,5,135,32"/>
+</map>

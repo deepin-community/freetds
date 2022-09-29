@@ -1,0 +1,4 @@
+<map id="tds_deferred_cursor_dealloc" name="tds_deferred_cursor_dealloc">
+<area shape="rect" id="node1" title="Deallocate cursor on idle." alt="" coords="5,5,143,47"/>
+<area shape="rect" id="node2" href="$a00560.html#ga2a64baaf4aa50ef601a49b801dfdaaf6" title="Check if a cursor is allocated into the server." alt="" coords="191,13,375,39"/>
+</map>

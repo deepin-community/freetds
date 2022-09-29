@@ -1,0 +1,6 @@
+<map id="tds_skip_quoted" name="tds_skip_quoted">
+<area shape="rect" id="node1" title="Skip quoting string (like &#39;sfsf&#39;, &quot;dflkdj&quot; or [dfkjd])" alt="" coords="641,5,759,32"/>
+<area shape="rect" id="node2" href="$a00560.html#ga6455b2991afbf7da90270787f2059d31" title="Get position of next placeholder." alt="" coords="448,5,593,32"/>
+<area shape="rect" id="node3" href="$a00560.html#gaaa7b4d37bf796019e72f25c6e7fe7bea" title="Count the number of placeholders (&#39;?&#39;) in a query." alt="" coords="241,5,400,32"/>
+<area shape="rect" id="node4" href="$a00560.html#ga02c6ce3ff96369603a6ee4efee64caae" title="Emulate prepared execute traslating to a normal language." alt="" coords="5,5,193,32"/>
+</map>

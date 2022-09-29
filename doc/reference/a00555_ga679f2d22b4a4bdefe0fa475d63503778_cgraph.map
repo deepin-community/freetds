@@ -1,0 +1,5 @@
+<map id="tds_ntlm_get_auth" name="tds_ntlm_get_auth">
+<area shape="rect" id="node1" title="Build a NTLMSPP packet to send to server." alt="" coords="5,31,135,57"/>
+<area shape="rect" id="node2" href="$a00563.html#ga5f351a208e7aa13b4cc2d32cac8fc0fa" title="Returns a C version (NUL terminated string) of dstr." alt="" coords="183,5,281,32"/>
+<area shape="rect" id="node3" href="$a00563.html#ga396f139e4f886ac1b224a735138e73dd" title="Returns the length of the string in bytes." alt="" coords="185,56,279,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="tds_peek" name="tds_peek">
+<area shape="rect" id="node1" title="Reads a byte from the TDS stream without removing it." alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node2" href="$a00561.html#ga0cb72d3f6943795c39db1fa692be0a58" title="Return a single byte from the input buffer." alt="" coords="128,5,225,32"/>
+<area shape="rect" id="node3" href="$a00561.html#ga410619783bdf2bb60b0f27a5578e0e07" title="Read in one &#39;packet&#39; from the server." alt="" coords="273,5,392,32"/>
+</map>

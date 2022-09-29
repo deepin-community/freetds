@@ -1,0 +1,4 @@
+<map id="tds_read_namelist" name="tds_read_namelist">
+<area shape="rect" id="node1" title="Reads list of names (usually table names)" alt="" coords="209,5,337,32"/>
+<area shape="rect" id="node2" href="$a00562.html#ga905d2fa5e1b602817bd16bb0fcf9eadb" title="tds_process_col_name() is one half of the result set under TDS 4.2 it contains all the column names,..." alt="" coords="5,5,161,32"/>
+</map>

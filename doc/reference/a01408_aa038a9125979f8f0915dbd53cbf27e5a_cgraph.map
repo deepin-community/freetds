@@ -1,0 +1,4 @@
+<map id="tds_dataout_stream_init" name="tds_dataout_stream_init">
+<area shape="rect" id="node1" title="Initialize a data output stream." alt="" coords="5,13,167,39"/>
+<area shape="rect" id="node2" href="$a01408.html#ae38a590ee08cf398e7adef536ac94538" title="Writes data to network for output stream." alt="" coords="215,5,352,47"/>
+</map>

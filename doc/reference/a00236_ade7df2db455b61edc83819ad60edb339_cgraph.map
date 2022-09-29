@@ -1,0 +1,4 @@
+<map id="tds_bcp_done" name="tds_bcp_done">
+<area shape="rect" id="node1" title="Tell we finished sending BCP data to server." alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node2" href="$a00437.html#ab45c291105027e69836002e1dd586141" title="Write a message to the debug log." alt="" coords="156,5,252,32"/>
+</map>

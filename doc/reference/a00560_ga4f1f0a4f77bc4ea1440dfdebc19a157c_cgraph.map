@@ -1,0 +1,4 @@
+<map id="tds5_put_params" name="tds5_put_params">
+<area shape="rect" id="node1" title="Send parameters to server." alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node2" href="$a00561.html#ga6b2b012b999bd0a4f159fabc8d11a5bf" title="Stop writing to server and cache every packet not sending them to server." alt="" coords="176,5,259,32"/>
+</map>

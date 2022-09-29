@@ -1,0 +1,4 @@
+<map id="tds_freeze" name="tds_freeze">
+<area shape="rect" id="node1" title="Stop writing to server and cache every packet not sending them to server." alt="" coords="176,5,259,32"/>
+<area shape="rect" id="node2" href="$a00560.html#ga4f1f0a4f77bc4ea1440dfdebc19a157c" title="Send parameters to server." alt="" coords="5,5,128,32"/>
+</map>

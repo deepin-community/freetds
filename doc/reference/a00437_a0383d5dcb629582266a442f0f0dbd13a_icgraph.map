@@ -1,0 +1,4 @@
+<map id="tds_get_conversion_type" name="tds_get_conversion_type">
+<area shape="rect" id="node1" title="Return type suitable for conversions (convert all nullable types to fixed type)" alt="" coords="179,5,345,32"/>
+<area shape="rect" id="node2" href="$a01393.html#a230fa5b56ae4e3509a69bd266495732b" title="Convert column for output (usually to a file) Conversion is slightly different from input as:" alt="" coords="5,5,131,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="tds_staticout_stream_init" name="tds_staticout_stream_init">
+<area shape="rect" id="node1" title="Initialize an output stream for write into a static allocated buffer." alt="" coords="179,5,347,32"/>
+<area shape="rect" id="node2" href="$a00561.html#ga676c4dee6522815b16fdc8e448e43590" title="For UTF&#45;8 and similar, tds_iconv() may encounter a partial sequence when the chunk boundary is not al..." alt="" coords="5,5,131,32"/>
+</map>

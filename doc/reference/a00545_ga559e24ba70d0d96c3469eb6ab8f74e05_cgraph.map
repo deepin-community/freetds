@@ -1,0 +1,4 @@
+<map id="dbcanquery" name="dbcanquery">
+<area shape="rect" id="node1" title="Cancel the query currently being retrieved, discarding all pending rows." alt="" coords="5,5,95,32"/>
+<area shape="rect" id="node2" href="$a00437.html#ab45c291105027e69836002e1dd586141" title="Write a message to the debug log." alt="" coords="143,5,239,32"/>
+</map>

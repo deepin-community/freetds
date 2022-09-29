@@ -1,0 +1,4 @@
+<map id="tds_freeze_written" name="tds_freeze_written">
+<area shape="rect" id="node1" title="Compute how many bytes has been written from freeze." alt="" coords="175,5,304,32"/>
+<area shape="rect" id="node2" href="$a00561.html#ga633f62fb8e5310abfa42c02fba9c6500" title="Stop keeping data for this specific freeze." alt="" coords="5,5,127,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="tds_process_end" name="tds_process_end">
+<area shape="rect" id="node1" title="tds_process_end() processes any of the DONE, DONEPROC, or DONEINPROC tokens." alt="" coords="5,5,127,32"/>
+<area shape="rect" id="node2" href="$a00561.html#gad38aa5b9547817854ccba1fcc7855861" title="Get an int16 from the server." alt="" coords="175,5,299,32"/>
+<area shape="rect" id="node3" href="$a00561.html#gae777dd57e8d1bb40349d7d7d8434fddf" title="Get N bytes from the buffer and return them in the already allocated space &#160;&#160;given to us." alt="" coords="347,5,425,32"/>
+<area shape="rect" id="node4" href="$a00561.html#ga410619783bdf2bb60b0f27a5578e0e07" title="Read in one &#39;packet&#39; from the server." alt="" coords="473,5,592,32"/>
+</map>
