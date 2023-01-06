@@ -1,3 +1,9 @@
+freetds (1.2.3.1-deepin1) unstable; urgency=medium
+
+  * Fix build on RISC-V 
+
+ -- Clansty <i@gao4.pw>  Fri, 06 Jan 2023 13:01:45 +0000
+
 freetds (1.2.3-1) unstable; urgency=medium
 
   * New upstream release.

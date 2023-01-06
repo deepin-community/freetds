@@ -112,7 +112,6 @@ define([AC_LIBTOOL_LANG_F77_CONFIG], [:])dnl
 define([AC_LIBTOOL_LANG_GCJ_CONFIG], [:])dnl
 
 LT_INIT([win32-dll])
-AC_LTDL_DLLIB
 LT_AC_PROG_RC
 
 AC_ARG_ENABLE(libiconv,
